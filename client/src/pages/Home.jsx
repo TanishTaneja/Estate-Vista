@@ -59,7 +59,7 @@ export default function Home() {
         </h1>
 
         <div className='text-gray-400 text-xs sm:text-sm'>
-          Estate Vista is the best place to find your next perfect place to
+          Real Estate World is the best place to find your next perfect place to
           live.
           <br />
           We have a wide range of properties for you to choose from.

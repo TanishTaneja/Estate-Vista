@@ -1,5 +1,5 @@
-# Estate-Vista
- The Estate Vista project is a dynamic and feature-packed platform designed to redefine how users interact with property listings Leveraging the MERN (MongoDB, Express.js, React, Node.js) stack, this project seamlessly integrates modern technologies to create robust and user-friendly experience. The Real Estate website project aims to set new standards in the real estate industry by offering a modern, intuitive, and secure platform for users to explore, inquire, and engage with property listings. Whether you are a potential buyer, or seller, this project caters to diverse users, providing a seamless and enjoyable real estate experience.
+# Real-Estate-World
+ The Real Estate World project is a dynamic and feature-packed platform designed to redefine how users interact with property listings Leveraging the MERN (MongoDB, Express.js, React, Node.js) stack, this project seamlessly integrates modern technologies to create robust and user-friendly experience. The Real Estate website project aims to set new standards in the real estate industry by offering a modern, intuitive, and secure platform for users to explore, inquire, and engage with property listings. Whether you are a potential buyer, or seller, this project caters to diverse users, providing a seamless and enjoyable real estate experience.
 
 ## Features
 
@@ -22,7 +22,7 @@
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/TanviSharma2104/Estate-Vista.git`
+1. Clone the repository: `git clone https://github.com/TanishTaneja/Real-Estate-World.git`
 2. Navigate to the project directory: `cd server`
 3. Install dependencies for the server: `npm install`
 4. Navigate to the client directory: `cd client`
